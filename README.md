@@ -1,1 +1,1 @@
-# CyptoBaseChromeExtensionTutorial
+# ChromeExtensionTutorial
